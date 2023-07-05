@@ -1,0 +1,26 @@
+{
+  "name": "dummy-esc",
+  "version": "1.0.0",
+  "description": "testing escalations",
+  "main": "endpoint_insert.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryjaled/dummy-esc.git"
+  },
+  "keywords": [
+    "dummy",
+    "esc"
+  ],
+  "author": "ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryjaled/dummy-esc/issues"
+  },
+  "homepage": "https://github.com/ryjaled/dummy-esc#readme",
+  "dependencies": {
+    "pg": "^8.11.1"
+  }
+}
