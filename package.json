@@ -4,7 +4,8 @@
   "description": "testing escalations",
   "main": "endpoint_insert.js",
   "scripts": {
-    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node endpoint_insert.js"
   },
   "repository": {
     "type": "git",
@@ -23,4 +24,5 @@
   "dependencies": {
     "pg": "^8.11.1"
   }
+  
 }
