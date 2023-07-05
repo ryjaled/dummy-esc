@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ryjaled/dummy-esc#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "pg": "^8.11.1"
   }
-  
 }
